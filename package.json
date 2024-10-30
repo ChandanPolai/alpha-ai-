@@ -1,0 +1,18 @@
+{
+  "name": "alpha-ai",
+  "version": "1.0.0",
+  "description": "alpha-ai is an free-to use engine that can give you optimized answers for various types of problems & questions",
+  "main": "index.js",
+  "keywords": [
+    "alpha-ai","generative-alpha-ai","ai-alpha","free-ai"
+  ],
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chandan polai",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0"
+  }
+}
